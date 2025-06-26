@@ -208,6 +208,8 @@ body {
   display: flex;
   flex-wrap: wrap;
   margin-top: 5rem;
+  margin-right: 5rem;
+  margin-left: 2rem;
   justify-content: center;
 }
 .menu .row .menu-card {
@@ -396,4 +398,3 @@ footer .credit a {
     font-size: 55%;
   }
 }
-  
